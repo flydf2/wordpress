@@ -1,0 +1,39 @@
+= 1.0.10 =
+* Fixed Category Dropdown widget style issue.
+* Improve accessibility.
+
+= 1.0.9 =
+* Fixed style issue.
+
+= 1.0.8 =
+* wp-block-file issue fixed.
+* wp-block-cover issue fixed.
+* wp-block spacing issue fixed.
+
+= 1.0.7 =
+* Featured links style issue fixed.
+
+= 1.0.6 =
+* Customizer header layout option issue fixed.
+
+= 1.0.5 =
+* wp-block-navigation styling issue fixed.
+* wp-block-site-title styling issue fixed.
+* wp-block-avatar styling issue fixed.
+
+= 1.0.4 =
+* Dark mode styling issue fixed.
+
+= 1.0.3 =
+* Added enable/disable background animation option.
+* Breadcrumb dark mode issue fixed.
+* Added background color in sidebar widget on dark mode.
+
+= 1.0.2 =
+* Dark mode color issue fixed.
+
+= 1.0.1 =
+* Keyboard navigation in mobile menu fixed.
+
+= 1.0.0 =
+* Initial release 🚀
